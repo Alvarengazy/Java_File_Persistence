@@ -16,6 +16,10 @@
 
 </div>
 
+---
+
+<details open>
+<summary><strong>🇺🇸 English</strong></summary>
 ## 🇺🇸 English
 
 ### 📖 About
@@ -102,6 +106,8 @@ Organizing file operations in a dedicated class makes the main class simpler and
 - [x] Use try-with-resources.
 - [x] Handle `IOException`.
 - [x] Separate program flow from file operations.
+
+</details>
 
 ---
 
