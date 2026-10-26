@@ -20,7 +20,6 @@
 
 <details open>
 <summary><strong>🇺🇸 English</strong></summary>
-## 🇺🇸 English
 
 ### 📖 About
 
@@ -111,7 +110,8 @@ Organizing file operations in a dedicated class makes the main class simpler and
 
 ---
 
-## 🇧🇷 Português
+<details>
+<summary><strong>🇧🇷 Português</strong></summary>
 
 ### 📖 Sobre
 
@@ -197,6 +197,7 @@ Organizar as operações com arquivos em uma classe dedicada simplifica a classe
 - [x] Utilizar try-with-resources.
 - [x] Tratar `IOException`.
 - [x] Separar o fluxo do programa das operações com arquivos.
+<details>
 
 ---
 
