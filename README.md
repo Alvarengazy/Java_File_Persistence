@@ -1,6 +1,6 @@
 <div align="center">
 
-# Java — File Handling & Persistence
+# ☕  Java — File Handling & Persistence
 
 **A focused Java study project about file handling and data persistence — written, tested, and documented while learning.**
 
