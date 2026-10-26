@@ -198,9 +198,11 @@ Organizar as operações com arquivos em uma classe dedicada simplifica a classe
 - [x] Tratar `IOException`.
 - [x] Separar o fluxo do programa das operações com arquivos.
 
-
+</details>
 
 ---
+
+<div align="center">
 
 ## 🚀 Next Steps
 
@@ -216,3 +218,5 @@ Parte da **Java-Learning-Library**, uma coleção de projetos práticos que docu
 
 **Made with ☕, curiosity, and consistency.**  
 **Feito com ☕, curiosidade e consistência.**
+
+</div>
