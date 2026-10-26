@@ -197,7 +197,8 @@ Organizar as operações com arquivos em uma classe dedicada simplifica a classe
 - [x] Utilizar try-with-resources.
 - [x] Tratar `IOException`.
 - [x] Separar o fluxo do programa das operações com arquivos.
-<details>
+
+
 
 ---
 
